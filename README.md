@@ -1,2 +1,2 @@
 # Slider-Box
-da best box simulation in da world
+It's a unity game about a sliding box. Yeah.
